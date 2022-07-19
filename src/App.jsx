@@ -9,7 +9,6 @@ import VerCliente from './paginas/VerCliente'
 
 function App() {
 
-
   return (
     <BrowserRouter>
         <Routes>
